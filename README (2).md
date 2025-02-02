@@ -7,6 +7,7 @@ This repository contains our solutions to the iQuHACK 2025 QuEra Challenge. We h
 ---
 
 ## Repository Structure
+On qbraid environment
 
 ```
 team-solutions/qracked
